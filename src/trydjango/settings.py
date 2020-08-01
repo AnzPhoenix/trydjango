@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 
     #own apps
     'blog',
-    'pages',
+    'pages.apps.PagesConfig',
 ]
 
 MIDDLEWARE = [
